@@ -1,4 +1,4 @@
-setwd("~/Desktop/semester4/advanced issues 2/matt frank/class1/data_berka (1)")
+setwd("..../data_berka (1)")
 rm(list=ls())
 trans<-read.csv("trans.asc",sep=";")
 colnames(trans)
